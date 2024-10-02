@@ -1,0 +1,5 @@
+Write a function even_odd that takes a list of integers. 
+It should check each number for evenness and return a list consisting of 'even' or 'odd'.
+
+The function should contain only a return statement. 
+Use list comprehension. Ternary operators might be useful here.
